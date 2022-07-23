@@ -46,3 +46,6 @@ This project was created using Proteus software for design automation and Keil a
   - 1k Potentiometer x 1
   - 5v 3amp power supply x 4
   - Ground x 5
+  
+## Simulation Video
+![Video}(project_vid.mp4)
