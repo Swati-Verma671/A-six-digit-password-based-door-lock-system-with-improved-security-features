@@ -28,6 +28,8 @@ This project was created using Proteus software for design automation and Keil a
  - For every wrong password, a red led lights glows whereas for every correct password a green light glows.
  - Default mode password - "123456", Reset mode - "**00##".
  
+ ![Image1](project_pic.png)
+ 
  ## Components Used
   - 8051 AT89c51 x 1
   - LCD 16x2 Display Module x 1
