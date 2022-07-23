@@ -2,6 +2,7 @@
 
 ## Introduction
 This project was created using Proteus software for design automation and Keil as the embedded IDE. This project adds more security and user friendly features to the password based door lock systems available in the market. While also using low-cost components to reduce the overall cost of project, so that it can be accessible to everyone more easily.
+![Image](lcd_pic.png)
 
 ## Objective
  - The objective of this project was to create a more robust, time-saving, safe and better solution to the traditional door locks(the keys and lock maneuver) that have high chances of burglary and therefore put the safety of the residents and goods at risk.
