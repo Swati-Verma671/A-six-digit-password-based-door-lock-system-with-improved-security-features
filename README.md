@@ -48,4 +48,6 @@ This project was created using Proteus software for design automation and Keil a
   - Ground x 5
   
 ## Simulation Video
-![Video](project_vid.mp4)
+
+https://user-images.githubusercontent.com/86883449/180877693-6556a8d5-1761-4fea-9c0c-660da659253b.mp4
+
