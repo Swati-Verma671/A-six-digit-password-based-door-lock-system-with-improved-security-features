@@ -1,4 +1,4 @@
-# Six-digit-password-based-door-lock-system
+# Six-digit password-based doorlock system
 ## Introduction
 This project was created using Proteus software for design automation and Keil as the embedded IDE. This project adds more security and user friendly features to the password based door lock systems available in the market. While also using low-cost components to reduce the overall cost of project, so that it can be accessible to everyone more easily.
 ![Image](lcd_pic.png)
